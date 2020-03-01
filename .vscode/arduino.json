@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:uno",
+    "port": "/dev/cu.usbmodem14101",
+    "sketch": "CO2Measurement/CO2Measurement.ino",
+    "programmer": "AVRISP mkII"
+}
